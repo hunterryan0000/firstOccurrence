@@ -1,0 +1,8 @@
+I knew that I could use Encapsulation for an Exercise and Exercise test class from doing homework at Tech Elevator.
+ - Made an instance of Exercise in TestExercise...gives access to the firstOccurrence method.
+Next I had to figure out how to sort the array because the problem states the array is sorted.
+ - Arrays.sort(nums) -- passing the array as an argument
+ - nums[0] = first number in the array = smallest number in the array
+Tested the method in Test Exercise
+ - firstOccurrence being the method displaying the correct answer (nums[0])
+ - testingWrongAnswer expecting to come back wrong (nums[1])
